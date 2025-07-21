@@ -24,7 +24,7 @@ An interactive weather dashboard built with **R Shiny**, displaying real-time we
 
 ##  Demo
 
- Live app: [https://yourname.shinyapps.io/WeatherForecast](https://huynqhe186603.shinyapps.io/miniproject/)  
+ Live app: [https://shinyapps.io/WeatherForecast](https://huynqhe186603.shinyapps.io/miniproject/)  
 
 
 
